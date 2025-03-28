@@ -7,3 +7,4 @@ scikit_posthocs==0.6.7
 scipy==1.15.2
 seaborn==0.13.2
 torch==2.6.0+cu126
+
